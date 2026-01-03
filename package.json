@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "setup:ai": "node scripts/setup-ai.js"
+  }
+}
